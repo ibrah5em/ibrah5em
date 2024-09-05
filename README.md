@@ -16,4 +16,6 @@ I'm Ibrahem, a passionate tech enthusiast and perpetual learner. 🚀
 - 🤖 Solving logic puzzles and challenges (because who needs sleep when you can debug at 3 AM?).
 - 🌟 Exploring the vast universe of web development.
 
-Feel free to [connect with me]([url](https://ibrah5em.github.io/Me/))! Let's swap code snippets, discuss Linux distros, or debate whether tabs or spaces are superior. 
+Feel free to connect with me! Let's swap code snippets, discuss Linux distros, or debate whether tabs or spaces are superior. 
+
+### [My-Links]([url](https://ibrah5em.github.io/Me/))
