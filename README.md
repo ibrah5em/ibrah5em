@@ -18,4 +18,4 @@ I'm Ibrahem, a passionate tech enthusiast and perpetual learner. 🚀
 
 Feel free to connect with me! Let's swap code snippets, discuss Linux distros, or debate whether tabs or spaces are superior. 
 
-### [My-Links]([url](https://ibrah5em.github.io/Me/))
+### [Contact]([url](https://ibrah5em.github.io/Me/))
