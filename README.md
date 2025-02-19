@@ -4,7 +4,7 @@ I'm Ibrahem, a passionate tech enthusiast and perpetual learner. 🚀
 
 ## About Me
 
-- 🎓 Studying both Information Technology and Management Information Systems (because why settle for one college when you can have two, right? 😄).
+- 🎓 Studying both Information Technology and Management Information Systems (because why settle for one college when you can have two, right? :\ ).
 - 🐧 Linux aficionado: I believe in the power of the terminal and the magic of open-source.
 - 💻 Languages I speak fluently: C++, Python, and a dash of binary (just kidding, but I do love low-level stuff).
 - 🔒 Cybersecurity enthusiast: I'm on a mission to protect digital realms from pixelated dragons.
@@ -18,4 +18,4 @@ I'm Ibrahem, a passionate tech enthusiast and perpetual learner. 🚀
 
 Feel free to connect with me! Let's swap code snippets, discuss Linux distros, or debate whether tabs or spaces are superior. 
 
-[Contact]([url](https://ibrah5em.github.io/Me/))
+
