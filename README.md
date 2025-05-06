@@ -46,8 +46,8 @@
 
 ## 📈 GitHub Stats
 
-![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah5em&layout=compact&theme=radical)
+![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah5em&layout=compact&theme=github_dark)
 
 ---
 
