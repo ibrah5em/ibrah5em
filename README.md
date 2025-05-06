@@ -1,21 +1,65 @@
-# Hello World! 👋
+# 👋 Hello World! I'm Ibrahem
 
-I'm Ibrahem, a passionate tech enthusiast and perpetual learner. 🚀
+[![Website](https://img.shields.io/badge/Portfolio-me-blue?style=flat-square&logo=google-chrome)](https://github.com/ibrah5em/me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ibrahem-hasaki-a0a32b295)
 
-## About Me
+---
 
-- 🎓 Studying both Information Technology and Management Information Systems (because why settle for one college when you can have two, right?).
-- 🐧 Linux aficionado: I believe in the power of the terminal and the magic of open-source.
-- 💻 Languages I speak fluently: C++, Python, and a dash of binary (just kidding, but I do love low-level stuff).
-- 🔒 Cybersecurity enthusiast: I'm on a mission to protect digital realms from pixelated dragons.
-- 📝 Obsidian and Notion are my trusty companions for note-taking and organizing my thoughts.
+## 🧠 About Me
 
-## Current Quests
+🎓 I'm a dual-degree student in **Information Technology** & **Management Information Systems**  
+🐧 Linux enthusiast who lives in the terminal — I 💙 open source  
+💻 Fluent in **C++**, **Python**, and obsessed with well-structured code  
+🔐 Cybersecurity geek — always hunting pixelated dragons  
+🗒️ I stay organized using **Obsidian** & **Notion**  
 
-- 🌐 Building cool apps that make life easier (or at least more interesting).
-- 🤖 Solving logic puzzles and challenges (because who needs sleep when you can debug at 3 AM?).
-- 🌟 Exploring the vast universe of web development.
+---
 
-Feel free to connect with me! Let's swap code snippets, discuss Linux distros, or debate whether tabs or spaces are superior. 
+## 🚀 Current Quests
 
+- 🛠️ Building elegant **CLI tools** and web apps with smart project structures  
+- 🧩 Solving logic puzzles and debugging late into the night (best ideas happen at 3AM)  
+- 🌐 Exploring modern **web development** and scripting workflows  
+
+---
+
+## 📚 Tech Stack & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=flat-square)
+![IT Networks](https://img.shields.io/badge/Focus-IT%20Networks-336699?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Security-Cybersecurity-red?style=flat-square&logo=hackthebox&logoColor=white)
+
+
+---
+
+## 📈 GitHub Stats
+
+![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah5em&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+> 💬 Want to swap code, discuss dotfiles, or debate tabs vs. spaces? I’m all ears!  
+Connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or check out my [Portfolio](https://github.com/ibrah5em/me).
+
+---
+
+✨ *"Stay curious. Keep building."*
+
+---
 
