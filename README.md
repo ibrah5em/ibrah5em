@@ -27,13 +27,17 @@
 
 ![C++](https://img.shields.io/badge/C++-121011?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-121011?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-121011?style=flat-square&logo=microsoft&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-121011?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-121011?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-121011?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-121011?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-121011?style=flat-square&logo=linux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-121011?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-121011?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-121011?style=flat-square&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-121011?style=flat-square&logo=notion&logoColor=white)
