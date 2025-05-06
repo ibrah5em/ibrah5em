@@ -46,8 +46,15 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=true&hide=stars,prs,issues,contribs&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah5em&layout=compact&theme=github_dark)
+- 📆 **Total Commits (Public)**: ![Commits Badge](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=false&hide=stars,prs,issues,contribs&count_private=false&theme=github_dark)
+- 🧑‍💻 Active Since: **2024**
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah5em&layout=compact&langs_count=4&theme=github_dark)
+
 
 ---
 
