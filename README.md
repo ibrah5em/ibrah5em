@@ -46,7 +46,7 @@
 
 ## 📈 GitHub Stats
 
-- 📆 **Total Commits (Public)**: ![Commits Badge](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=false&hide=stars,prs,issues,contribs&count_private=false&theme=github_dark)
+![Commits Badge](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=false&hide=stars,prs,issues,contribs&count_private=false&theme=github_dark)
 - 🧑‍💻 Active Since: **2024**
 
 ---
