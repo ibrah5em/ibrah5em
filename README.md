@@ -29,7 +29,6 @@
 
 ![C++](https://img.shields.io/badge/C++-121011?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-121011?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-121011?style=flat-square&logo=csharp&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-121011?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-121011?style=flat-square&logo=css3&logoColor=white)
