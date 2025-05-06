@@ -33,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-121011?style=flat-square&logo=linux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-121011?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-121011?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-121011?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-121011?style=flat-square&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-121011?style=flat-square&logo=notion&logoColor=white)
