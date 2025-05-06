@@ -1,7 +1,8 @@
 # 👋 Hello World! I'm Ibrahem
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-8e44ad?style=flat-square&logo=github&logoColor=white)](https://ibrah5em.github.io/Me)
-[![🐦 X (Twitter)](https://img.shields.io/badge/X-Follow-8e44ad?style=flat-square&logo=x&logoColor=white)](https://x.com/ibrah5em)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-ibrah5em.github.io-black?style=for-the-badge&logo=github&logoColor=white)](https://ibrah5em.github.io/Me)
+[![🐦 X (Twitter)](https://img.shields.io/badge/X-%40ibrah5em-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibrah5em)
+
 
 ---
 
