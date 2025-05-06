@@ -1,7 +1,8 @@
 # 👋 Hello World! I'm Ibrahem
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-me-blue?style=flat-square&logo=github)](https://ibrah5em.github.io/Me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ibrahem-hasaki-a0a32b295)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-8e44ad?style=flat-square&logo=github&logoColor=white)](https://ibrah5em.github.io/Me)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8e44ad?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahem-hasaki-a0a32b295)
+
 
 ---
 
