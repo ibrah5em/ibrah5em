@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Ibrahem
 
-[![Website](https://img.shields.io/badge/Portfolio-me-blue?style=flat-square&logo=google-chrome)](https://github.com/ibrah5em/me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-me-blue?style=flat-square&logo=github)](https://ibrah5em.github.io/Me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ibrahem-hasaki-a0a32b295)
 
 ---
@@ -27,7 +27,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -54,8 +54,9 @@
 
 ## 🤝 Let's Connect
 
-> 💬 Want to swap code, discuss dotfiles, or debate tabs vs. spaces? I’m all ears!  
-Connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or check out my [Portfolio](https://github.com/ibrah5em/me).
+💬 Want to swap code, discuss dotfiles, or debate tabs vs. spaces? I’m all ears!
+
+ Check out my [Portfolio](https://ibrah5em.github.io/Me/#work) for contact.
 
 ---
 
