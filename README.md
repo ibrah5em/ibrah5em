@@ -8,19 +8,20 @@
 
 ## 🧠 About Me
 
-🎓 I'm a dual-degree student in **Information Technology** & **Management Information Systems**  
-🐧 Linux enthusiast who lives in the terminal — I 💙 open source  
-💻 Fluent in **C++**, **Python**, and obsessed with well-structured code  
-🔐 Cybersecurity geek — always hunting pixelated dragons  
-🗒️ I stay organized using **Obsidian** & **Notion**  
+🎓 I'm diving deep into **Information Technology** & **Management Information Systems** with a dual-degree focus.  
+🐧 Linux is my playground — and the terminal is my second home. Open source is my passion.  
+💻 I speak **C++**, **Python**, and I’m obsessed with crafting elegant, maintainable code.  
+🔐 Cybersecurity is my realm — I chase down those pixelated dragons like a true geek.  
+🗒️ I thrive on organization with **Obsidian** & **Notion** to keep my digital life in check.
 
 ---
 
 ## 🚀 Current Quests
 
-- 🛠️ Building elegant **CLI tools** and web apps with smart project structures  
-- 🧩 Solving logic puzzles and debugging late into the night (best ideas happen at 3AM)  
-- 🌐 Exploring modern **web development** and scripting workflows  
+- 🛠️ Crafting **CLI tools** and web apps with clean, scalable architectures.  
+- 🧩 Debugging logic puzzles and thinking outside the box (I find my best ideas around 3 AM).  
+- 🌐 Experimenting with modern **web development** and optimizing scripting workflows.  
+
 
 ---
 
@@ -45,13 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Commits Badge](https://github-readme-stats.vercel.app/api?username=ibrah5em&show_icons=false&hide=stars,prs,issues,contribs&count_private=false&theme=github_dark)
-- 🧑‍💻 Active Since: **2024**
-
----
-
 ## 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah5em&layout=compact&langs_count=4&theme=github_dark)
@@ -59,15 +53,7 @@
 
 ---
 
-## 🤝 Let's Connect
-
-💬 Want to swap code, discuss dotfiles, or debate tabs vs. spaces? I’m all ears!
-
- Check out my [Portfolio](https://ibrah5em.github.io/Me/#work) for contact.
-
----
-
-✨ *"Stay curious. Keep building."*
+✨ "There's always one more bug to fix."
 
 ---
 
