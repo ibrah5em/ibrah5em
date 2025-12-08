@@ -1,4 +1,4 @@
-# Ibrah5em — Frontend & ML Engineer
+# Ibrah5em — IT Engineer
 
 Hi — I'm Ibrah5em. I build clean, well-documented frontend apps and research-quality machine-learning tools. I am studying **Information Technology** and **Management Information Systems**.
 
