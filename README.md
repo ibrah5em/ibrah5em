@@ -38,9 +38,7 @@ Hi — I'm Ibrah5em. I build clean, well-documented frontend apps and research-q
 
 ## Links & contact
 
-![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahym.das@gmail.com)
-
-[![Store](https://img.shields.io/badge/Store-My%20Products-000000?style=for-the-badge&logo=shopify&logoColor=white)](https://ibrah5em.github.io/My-Productus/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahym.das@gmail.com) [![Store](https://img.shields.io/badge/Store-My%20Products-000000?style=for-the-badge&logo=shopify&logoColor=white)](https://ibrah5em.github.io/My-Productus/)
 
 
 
