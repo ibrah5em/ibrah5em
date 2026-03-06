@@ -1,4 +1,4 @@
-# Ibrah5em — IT Engineer <img align="right" src="https://github.com/user-attachments/assets/b108140d-6d59-49c4-a9c4-212fab971685" width="120">
+# Ibrah5em — IT Engineer 
 
 Hi — I'm Ibrah5em. I build clean, well-documented frontend apps and research-quality machine-learning tools. I am studying **Information Technology** and **Management Information Systems**.
 
@@ -9,7 +9,7 @@ Hi — I'm Ibrah5em. I build clean, well-documented frontend apps and research-q
 
 - Machine Learning and AI applications
 - Frontend development and **CLI tools**
-- Systems programming scripts with Python 
+- Systems programming scripts with Python <img align="right" src="https://github.com/user-attachments/assets/b108140d-6d59-49c4-a9c4-212fab971685" width="120">
 - Open-source software development
 
 ## Tech & tools
