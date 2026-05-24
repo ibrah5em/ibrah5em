@@ -2,7 +2,7 @@ Hi — I'm Ibrah5em, studying **Information Technology** and **Management Inform
 
 I've been doing DevOps long before I knew it had a name — building bots, designing and selling Notion templates at 16, and now managing Docker containers, CI/CD pipelines, and hardened servers. I also help people build productivity systems and organize their digital lives.
 
-[![Website](https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrah5em.duckdns.org/)
+[![Website](https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrah5em.me/)
 [![X](https://img.shields.io/badge/-Ibrah5em-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibrah5em)
 ## Tech Stack
 
