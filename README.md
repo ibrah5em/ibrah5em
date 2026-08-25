@@ -1,6 +1,6 @@
 Hi — I'm Ibrah5em, studying **Information Technology** and **Management Information Systems**.
 
-I've been doing DevOps long before I knew it had a name — building bots, designing and selling Notion templates at 16, and now managing Docker containers, CI/CD pipelines, and hardened servers. I also help people build productivity systems and organize their digital lives.
+I build full-stack web apps, ship open-source tooling on PyPI and npm, and run the infrastructure people depend on. First line to production — and I write down everything that happens on the way.
 
 [![Website](https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrah5em.me/)
 [![X](https://img.shields.io/badge/-Ibrah5em-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibrah5em)
