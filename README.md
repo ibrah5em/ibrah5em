@@ -1,4 +1,4 @@
-Hi — I'm Ibrah5em, studying **Information Technology** and **Management Information Systems**.
+Hi — I'm Ibrahem Hasaki (Ibrah5em), studying **Computer Engineering** and **Management Information Systems**.
 
 I build full-stack web apps, ship open-source tooling on PyPI and npm, and run the infrastructure people depend on. First line to production — and I write down everything that happens on the way.
 
