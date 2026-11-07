@@ -1,6 +1,6 @@
-Hi — I'm Ibrahem Hasaki (Ibrah5em), studying **Computer Engineering** and **Management Information Systems**.
+Hi — I'm Ibrahem Hasaki (Ibrah5em, يكسح ميهاربا), studying **Computer Engineering** and **Management Information Systems** in Syria. Open to remote contract work, UTC+3.
 
-I build full-stack web apps, ship open-source tooling on PyPI and npm, and run the infrastructure people depend on. First line to production — and I write down everything that happens on the way.
+I build full-stack web apps, ship open-source tooling on PyPI and npm, and run the infrastructure under them. I test my own AI tools too, and report what they actually cost. First line to production — and I write down everything that happens on the way.
 
 [![Website](https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrah5em.me/)
 [![X](https://img.shields.io/badge/-Ibrah5em-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibrah5em)
@@ -12,6 +12,7 @@ I build full-stack web apps, ship open-source tooling on PyPI and npm, and run t
 ![Linux](https://img.shields.io/badge/Linux-121011?style=flat-square&logo=linux&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-121011?style=flat-square&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-121011?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-121011?style=flat-square&logo=cloudflare&logoColor=white)
 
 **Languages & Tools**
 
@@ -23,9 +24,4 @@ I build full-stack web apps, ship open-source tooling on PyPI and npm, and run t
 **Networking & Security**
 
 ![WireGuard](https://img.shields.io/badge/WireGuard-121011?style=flat-square&logo=wireguard&logoColor=white)
-![Pi--hole](https://img.shields.io/badge/Pi--hole-121011?style=flat-square&logo=pihole&logoColor=white)
-
-
-
-
-
+![Pi--hole](https://img.shields.io/badge/Pi--hole-121011?styleColor=white)
