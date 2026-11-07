@@ -1,4 +1,4 @@
-Hi — I'm Ibrahem Hasaki (Ibrah5em, يكسح ميهاربا), studying **Computer Engineering** and **Management Information Systems** in Syria. Open to remote contract work, UTC+3.
+Hi — I'm Ibrahem Hasaki (Ibrah5em, ابراهيم حسكي), studying **Computer Engineering** and **Management Information Systems** in Syria. Open to remote contract work, UTC+3.
 
 I build full-stack web apps, ship open-source tooling on PyPI and npm, and run the infrastructure under them. I test my own AI tools too, and report what they actually cost. First line to production — and I write down everything that happens on the way.
 
