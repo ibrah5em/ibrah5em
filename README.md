@@ -1,4 +1,4 @@
-Hi, I'm Ibrahem Hasaki (ibrah5em, يكسح ميهاربا), a software and DevOps engineer in Syria, studying Computer Engineering and Management Information Systems at the same time. UTC+3.
+Hi, I'm Ibrahem Hasaki (ibrah5em, ابراهيم حسكي), a software and DevOps engineer in Syria, studying Computer Engineering and Management Information Systems at the same time. UTC+3.
 
 I build full-stack web apps and the infrastructure that runs them, and publish open-source tools on PyPI and npm. What breaks along the way gets written up at ibrah5em.me.
 
