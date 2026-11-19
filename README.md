@@ -1,6 +1,6 @@
-Hi — I'm Ibrahem Hasaki (Ibrah5em, ابراهيم حسكي), studying **Computer Engineering** and **Management Information Systems** in Syria. Open to remote contract work, UTC+3.
+Hi, I'm Ibrahem Hasaki (ibrah5em, يكسح ميهاربا), a software and DevOps engineer in Syria, studying Computer Engineering and Management Information Systems at the same time. UTC+3.
 
-I build full-stack web apps, ship open-source tooling on PyPI and npm, and run the infrastructure under them. I test my own AI tools too, and report what they actually cost. First line to production — and I write down everything that happens on the way.
+I build full-stack web apps and the infrastructure that runs them, and publish open-source tools on PyPI and npm. What breaks along the way gets written up at ibrah5em.me.
 
 [![Website](https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrah5em.me/)
 [![X](https://img.shields.io/badge/-Ibrah5em-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibrah5em)
